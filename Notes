@@ -1,0 +1,23 @@
+be able to dynamically change the form box to another box
+keep track of the answers given... cookies?
+
+work notes:
+build structure. +
+build inputs.
+
+currently testing the radio button inputs for value.
+test changing text for answers.
+
+how far have I mapped in this project?
++ a function to get value from the radio boxes and return a clear value.
++ a class to keep track of all answers and what questions and answers are next.
++ rewording functions to from functions.js to make code more readable.
+creating functions to change the questions and functions to change the answers.
+
+Learned how to use atom on Linux.
+Created a function list to use in future projects.
+Learned how to get inputs and change HTML elements as outputs.
+Learned how to use local storage.
+Learned how to position certain files to function in order.
+how to store data using localStorage.
+Learned how to debug without error messages.
